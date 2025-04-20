@@ -24,3 +24,6 @@ V  \    | |
 
 banana_bonita()
 ```
+## Tareas pendientes
+- [x] Alimentar a monita
+- [ ] Realizar la lectura no. 1 
